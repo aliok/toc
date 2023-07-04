@@ -96,7 +96,7 @@ While the details of the process are described in detail further for Incubating 
 * Adopter Interviews are conducted, depending on the freshness of prior interviews the TOC may choose to not conduct further interviews or conduct others to ensure coverage by a variety of adopters to explore all facets of the project. The project is updated on the project board.
   * Who: TOC Sponsor(s) and Adopters
 * If multiple TOC members are sponsoring, they will conduct their own individual reviews and then coordinate with each other on overall observations, findings, and next steps.
-  * TOC Sponsors
+  * Who: TOC Sponsors
 * TOC sponsor(s) re-engages the project to discuss next steps, any blockers that prevent the project from moving, and any actions that need completed but are non-blocking.
   * Who: TOC Sponsor(s) and Project
 * Assuming all outstanding issues are resolved, the TOC opens an internal comment period, about 1 week, for other TOC members to perform an independent review and verify all areas of the project have been evaluated
